@@ -9,6 +9,7 @@ $host = 'localhost';
 $usuario = 'root';
 $contrasena = 'admin';
 $base_datos = 'desis';
+```
 
 Si tienes alguna duda o pregunta sobre lo anterior, no dudes en contactarme a mi correo personal: andres.pb.16@gmail.com.
 
